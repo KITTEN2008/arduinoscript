@@ -1,0 +1,14 @@
+# Зависимости для ArduinoScript
+# Для работы компилятора
+
+colorama>=0.4.4
+pygments>=2.11.0
+click>=8.0.0
+
+# Для тестирования
+pytest>=7.0.0
+pytest-cov>=3.0.0
+
+# Для сборки
+setuptools>=60.0.0
+wheel>=0.37.0
